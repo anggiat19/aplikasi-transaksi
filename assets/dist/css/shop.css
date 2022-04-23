@@ -1,0 +1,43 @@
+.menu {
+  padding: 1.5rem 2rem;
+  background-color: #f0f0f0;
+}
+
+.menu-selection {
+  height: 82vh;
+  border: 0px solid;
+  border-radius: 20px;
+}
+.transaction {
+  height: 82vh;
+  border-radius: 20px;
+  width: 95%;
+}
+
+#search-input {
+  border-radius: 50px;
+}
+
+.transaction-buttons {
+  width: 95%;
+}
+
+.clear-button {
+  border-radius: 20px;
+  border: 2px #fe1212 solid;
+  color: #fe1212;
+}
+
+.submit-button {
+  border-radius: 20px;
+  border: 2px #fe1212 solid;
+  color: #fff;
+  background-color: #fe1212;
+}
+
+.shop-button {
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  width: 100%;
+}
